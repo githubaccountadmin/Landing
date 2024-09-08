@@ -1,1 +1,1 @@
-Landing page for The PulseChain Web: DeFi Hub
+Landing page for The PulseChain Library Gateway
